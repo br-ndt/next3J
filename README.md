@@ -9,4 +9,5 @@ clone the repo then
 standard NextJS scripts included
 
 `yarn dev` or `npm run dev` for development
+
 `yarn start` or `npm run start` for a production version
